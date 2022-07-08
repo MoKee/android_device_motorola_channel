@@ -1,5 +1,9 @@
 [
  {
+   "repository": "android_vendor_motorola_channel",
+   "target_path": "vendor/motorola/channel"
+ },
+ {
    "repository": "android_device_motorola_sdm632-common",
    "target_path": "device/motorola/sdm632-common"
  }
